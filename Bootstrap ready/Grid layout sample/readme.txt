@@ -1,0 +1,2 @@
+Bootstrap allows only 12 Bootstrap columns in a single row. If we try to exceed that, the rest
+of the columns will be adjusted into the next line. This new line will again have the capacity of 12 Bootstrap columns.
